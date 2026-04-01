@@ -1,0 +1,8 @@
+{
+  "name": "native3-backend",
+  "private": true,
+  "scripts": {
+    "api": "go run .",
+    "start": "go run ."
+  }
+}
